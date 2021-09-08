@@ -1,0 +1,7 @@
+# veido detection 装甲板识别
+
+## 使用方法
+
+cmake .                  
+
+make即可
