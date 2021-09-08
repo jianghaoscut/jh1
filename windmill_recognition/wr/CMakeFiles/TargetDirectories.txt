@@ -1,0 +1,3 @@
+/home/yppppp/windmill_recognition/wr/CMakeFiles/rebuild_cache.dir
+/home/yppppp/windmill_recognition/wr/CMakeFiles/wr.dir
+/home/yppppp/windmill_recognition/wr/CMakeFiles/edit_cache.dir

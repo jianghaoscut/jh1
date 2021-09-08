@@ -1,0 +1,3 @@
+/home/yppppp/vedio_detection/vd/CMakeFiles/rebuild_cache.dir
+/home/yppppp/vedio_detection/vd/CMakeFiles/vd.dir
+/home/yppppp/vedio_detection/vd/CMakeFiles/edit_cache.dir
